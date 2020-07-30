@@ -1,1 +1,0 @@
-# Change-VMware-Tools-location-on-multiple-ESXi-hosts
